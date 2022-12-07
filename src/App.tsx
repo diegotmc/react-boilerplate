@@ -20,7 +20,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            React
+            React 222
           </a>
           <span>, </span>
           <a
