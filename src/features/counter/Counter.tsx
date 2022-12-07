@@ -48,7 +48,7 @@ export function Counter() {
           className={styles.button}
           onClick={() => dispatch(incrementByAmount(incrementValue))}
         >
-          Add Amount
+          Add Amount 111
         </button>
         <button
           className={styles.asyncButton}
