@@ -20,7 +20,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            React
+            React 333
           </a>
           <span>, </span>
           <a
@@ -29,7 +29,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Redux
+            Redux 333
           </a>
           <span>, </span>
           <a
